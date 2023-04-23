@@ -88,9 +88,9 @@ class SexHack:
 
         draw = ImageDraw.Draw(img)
         font = ImageFont.truetype("impact.ttf", 32)
-        draw.text((350 / 2, 0), "WTF DISCORD SEX", (255, 255, 255), font=font, anchor="ma", stroke_width=2,
+        draw.text((350 / 2, 0), "WTF DISCORD MONKE", (255, 255, 255), font=font, anchor="ma", stroke_width=2,
                   stroke_fill=(0, 0, 0))
-        draw.text((350 / 2, 185), "??? WTF ??? SEX ???", (255, 255, 255), font=font, anchor="md", stroke_width=2,
+        draw.text((350 / 2, 185), "??? WTF ??? MONKE ???", (255, 255, 255), font=font, anchor="md", stroke_width=2,
                   stroke_fill=(0, 0, 0))
 
         # JPEGify the image slightly
@@ -107,7 +107,7 @@ class SexHack:
             # Draw text
             draw = ImageDraw.Draw(base)
             font = ImageFont.truetype("impact.ttf", 36)
-            draw.text((394 / 2, -10), "ULTRA DOUBLE SEX", (255, 255, 255), font=font, anchor="ma", stroke_width=2,
+            draw.text((394 / 2, -10), "ULTRA DOUBLE MONKE", (255, 255, 255), font=font, anchor="ma", stroke_width=2,
                       stroke_fill=(0, 0, 0))
             draw.text((394 / 2, 295), "ACTIVATED ??? HOW", (255, 255, 255), font=font, anchor="md", stroke_width=2,
                       stroke_fill=(0, 0, 0))
